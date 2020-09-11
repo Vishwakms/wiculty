@@ -1,0 +1,12 @@
+commands
+1. hostname
+2. useradd "name"
+3. compgen -u
+4. route -n
+5. ifconfig
+6. userdel "name"
+7. vim filename
+8. cat filename
+9. top 
+10.lslogins
+11. history
